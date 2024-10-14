@@ -37,6 +37,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Odevler", "Odevler", "{F095
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta2_Odev_Random", "Hafta2_Odev_Random\Hafta2_Odev_Random.csproj", "{FFB599D8-BBA7-4C7C-A65B-0C1FB3A6A3F5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hafta3", "Hafta3", "{AC12D521-A8A1-48D9-A26C-FD3FF1E2307A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
