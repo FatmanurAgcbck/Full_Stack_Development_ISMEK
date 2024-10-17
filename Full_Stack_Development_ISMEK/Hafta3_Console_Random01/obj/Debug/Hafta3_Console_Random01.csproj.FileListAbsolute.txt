@@ -1,0 +1,7 @@
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Random01\bin\Debug\Hafta3_Console_Random01.exe.config
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Random01\bin\Debug\Hafta3_Console_Random01.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Random01\bin\Debug\Hafta3_Console_Random01.pdb
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Random01\obj\Debug\Hafta3_Console_Random01.csproj.AssemblyReference.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Random01\obj\Debug\Hafta3_Console_Random01.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Random01\obj\Debug\Hafta3_Console_Random01.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Random01\obj\Debug\Hafta3_Console_Random01.pdb
