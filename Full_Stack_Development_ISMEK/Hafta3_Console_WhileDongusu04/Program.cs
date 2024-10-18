@@ -11,48 +11,27 @@ namespace Hafta3_Console_WhileDongusu04
     {
         static void Main(string[] args)
         {
-            //klavyeden 15 girilene kadar sayıları toplamını ekrana yazan program
+            //klavyeden negatif sayı girilene kadar girilen diğer sayıları toplayan program
 
-
-            int toplam = 0;
             int sayi = 0;
+            int toplam = 0;
 
-
-            //15 toplama dahil ediliyor 
-            //while (sayi != 15)
-            //{
-            //    toplam += sayi;
-            //    Console.Write("Sayı Giriniz: ");
-            //    sayi = Convert.ToInt32(Console.ReadLine());
-
-                
-
-            //    if (sayi == 15)
-            //    {
-            //        toplam += sayi;
-            //        break;   
-            //    }
-                
-            //}
-
-
-            //15 toplama dahil edilmiyor
-            while (sayi != 15)
+            while (sayi >= 0)
             {
                 Console.Write("Sayı Giriniz: ");
                 sayi = Convert.ToInt32(Console.ReadLine());
 
-                if (sayi == 15)
+                if (sayi >= 0)
                 {
-                    
-                    break;
-                }
-                toplam += sayi;
-            }
+                    toplam += sayi;
 
+                }
+
+            }
             Console.WriteLine();
-            Console.WriteLine("Toplam: "+ toplam);
-            Console.WriteLine("İşlem Bitti...");
+            Console.WriteLine("Toplam: " + toplam);
+
+
 
             Console.Read();
         }

@@ -11,28 +11,58 @@ namespace Hafta3_Console_WhileDongusu05
     {
         static void Main(string[] args)
         {
+            //klavyeden çalışan sayısı girilsin. sırasıyla çalışanların maaşı da istensin. Eğer maaş 8 bin ile 16 bin arasındayda kaç yıldır çalıştığı sorulsun.Eğer 5 ile 10 yıl arasında çalışıyor ise 2000 ile 5000 arasında random mesai ücreti atansın ve toplam maaşa eklenerek maaş gösterilsin
 
-            //klavyeden negatif sayı girilene kadar girilen diğer sayıları toplayan program
+            //yıl şartı uymuyorsa maaşa 2000 ile 3000 arasında random değer atayarak maaş ile toplansın
 
-            int sayi = 0;
-            int toplam = 0;
+            //maaş 8 ile 16 bin arasında değilse maaşa 1000 bile 2000 arasında random değer atayarak maaş ile toplansın
 
-            while (sayi >= 0)
+            //en sonunda tüm çalışanların toplam maaş ve mesai ücretleri toplamını gösteren program
+
+
+            Console.Write("Çalışan Sayısını Giriniz: ");
+            int calisanSayisi = Convert.ToInt32(Console.ReadLine());
+
+            Random rastgele = new Random();
+            int toplamMaas = 0;
+            int toplamMesai = 0;
+
+            for (int i = 1; i < calisanSayisi; i++)
             {
-                Console.Write("Sayı Giriniz: ");
-                sayi = Convert.ToInt32(Console.ReadLine());
+                Console.Write(i + ". çalışanın maaşını giriniz: ");
+                int maas = Convert.ToInt32(Console.ReadLine());
 
-                if (sayi >= 0)
+                if (maas >= 8000 && maas <= 18000)
                 {
-                    toplam += sayi;
+                    Console.Write(" kaç senedir çalışıyor: ");
+                    int sene = Convert.ToInt32(Console.ReadLine());
 
+                    if (sene >= 5 && sene <= 10)
+                    {
+                        int mesai = rastgele.Next(2000, 5001);
+                        maas += mesai;
+                        Console.WriteLine(i + ". Çalışanın Toplam Maaşı");
+                        toplamMaas += maas;
+                        toplamMesai += mesai;
+                    }
+                    else
+                    {
+                        int mesai = rastgele.Next(2000, 3001);
+                        maas += mesai;
+                        Console.WriteLine(i + ". Çalışanın Toplam Maaşı");
+                        toplamMaas += maas;
+                        toplamMesai += mesai;
+                    }
                 }
-
+                else
+                {
+                    int mesai = rastgele.Next(1000, 2001);
+                    maas += mesai;
+                    Console.WriteLine(i + ". Çalışanın Toplam Maaşı " + maas);
+                    toplamMaas += maas;
+                    toplamMesai += mesai;
+                }
             }
-            Console.WriteLine();
-            Console.WriteLine("Toplam: " + toplam);
-
-            
 
             Console.Read();
         }

@@ -1,0 +1,7 @@
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Foreach\bin\Debug\Hafta3_Console_Foreach.exe.config
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Foreach\bin\Debug\Hafta3_Console_Foreach.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Foreach\bin\Debug\Hafta3_Console_Foreach.pdb
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Foreach\obj\Debug\Hafta3_Console_Foreach.csproj.AssemblyReference.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Foreach\obj\Debug\Hafta3_Console_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Foreach\obj\Debug\Hafta3_Console_Foreach.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Foreach\obj\Debug\Hafta3_Console_Foreach.pdb

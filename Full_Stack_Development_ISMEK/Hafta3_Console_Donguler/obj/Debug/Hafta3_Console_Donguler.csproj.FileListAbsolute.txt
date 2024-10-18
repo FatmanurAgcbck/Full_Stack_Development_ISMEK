@@ -1,0 +1,7 @@
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Donguler\bin\Debug\Hafta3_Console_Donguler.exe.config
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Donguler\bin\Debug\Hafta3_Console_Donguler.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Donguler\bin\Debug\Hafta3_Console_Donguler.pdb
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Donguler\obj\Debug\Hafta3_Console_Donguler.csproj.AssemblyReference.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Donguler\obj\Debug\Hafta3_Console_Donguler.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Donguler\obj\Debug\Hafta3_Console_Donguler.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta3_Console_Donguler\obj\Debug\Hafta3_Console_Donguler.pdb
