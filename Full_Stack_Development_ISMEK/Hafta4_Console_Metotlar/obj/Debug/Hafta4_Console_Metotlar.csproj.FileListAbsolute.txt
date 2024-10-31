@@ -1,0 +1,7 @@
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta4_Console_Metotlar\bin\Debug\Hafta4_Console_Metotlar.exe.config
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta4_Console_Metotlar\bin\Debug\Hafta4_Console_Metotlar.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta4_Console_Metotlar\bin\Debug\Hafta4_Console_Metotlar.pdb
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta4_Console_Metotlar\obj\Debug\Hafta4_Console_Metotlar.csproj.AssemblyReference.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta4_Console_Metotlar\obj\Debug\Hafta4_Console_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta4_Console_Metotlar\obj\Debug\Hafta4_Console_Metotlar.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta4_Console_Metotlar\obj\Debug\Hafta4_Console_Metotlar.pdb
