@@ -1,0 +1,7 @@
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta5_Console_Arrays02\bin\Debug\Hafta5_Console_Arrays02.exe.config
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta5_Console_Arrays02\bin\Debug\Hafta5_Console_Arrays02.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta5_Console_Arrays02\bin\Debug\Hafta5_Console_Arrays02.pdb
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta5_Console_Arrays02\obj\Debug\Hafta5_Console_Arrays02.csproj.AssemblyReference.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta5_Console_Arrays02\obj\Debug\Hafta5_Console_Arrays02.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta5_Console_Arrays02\obj\Debug\Hafta5_Console_Arrays02.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Full_Stack_Development_ISMEK\Hafta5_Console_Arrays02\obj\Debug\Hafta5_Console_Arrays02.pdb
