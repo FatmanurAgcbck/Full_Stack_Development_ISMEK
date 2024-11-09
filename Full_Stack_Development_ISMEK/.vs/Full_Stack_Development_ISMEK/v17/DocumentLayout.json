@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Full_Stack_Development_ISMEK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BF02D3E-85B9-4ECB-845E-3DF876036941}|Hafta5_Console_Arrays02\\Hafta5_Console_Arrays02.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\full_stack_development_ismek\\full_stack_development_ismek\\hafta5_console_arrays02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BF02D3E-85B9-4ECB-845E-3DF876036941}|Hafta5_Console_Arrays02\\Hafta5_Console_Arrays02.csproj|solutionrelative:hafta5_console_arrays02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DBB860-1BD1-4466-9811-AAA1EA4C5473}|Hafta5_Console_Arrays01\\Hafta5_Console_Arrays01.csproj|C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Full_Stack_Development_ISMEK\\hafta5_console_arrays01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4DBB860-1BD1-4466-9811-AAA1EA4C5473}|Hafta5_Console_Arrays01\\Hafta5_Console_Arrays01.csproj|solutionrelative:hafta5_console_arrays01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E1BF96A-ADD1-4731-98C9-04FB8B6A0FC4}|Hafta4_Odev\\Hafta4_Odev.csproj|C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Full_Stack_Development_ISMEK\\hafta4_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E1BF96A-ADD1-4731-98C9-04FB8B6A0FC4}|Hafta4_Odev\\Hafta4_Odev.csproj|solutionrelative:hafta4_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -28,38 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Full_Stack_Development_ISMEK\\Hafta5_Console_Arrays02\\Program.cs",
-              "RelativeDocumentMoniker": "Hafta5_Console_Arrays02\\Program.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Full_Stack_Development_ISMEK\\Hafta5_Console_Arrays02\\Program.cs",
-              "RelativeToolTip": "Hafta5_Console_Arrays02\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAuwCgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T12:53:45.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Full_Stack_Development_ISMEK\\Hafta5_Console_Arrays01\\Program.cs",
-              "RelativeDocumentMoniker": "Hafta5_Console_Arrays01\\Program.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Full_Stack_Development_ISMEK\\Hafta5_Console_Arrays01\\Program.cs",
-              "RelativeToolTip": "Hafta5_Console_Arrays01\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAuwDEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T12:33:48.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Full_Stack_Development_ISMEK\\Hafta4_Odev\\Program.cs",
               "RelativeDocumentMoniker": "Hafta4_Odev\\Program.cs",
               "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Full_Stack_Development_ISMEK\\Hafta4_Odev\\Program.cs",
               "RelativeToolTip": "Hafta4_Odev\\Program.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T11:42:38.969Z"
+              "WhenOpened": "2024-11-01T11:42:38.969Z",
+              "EditorCaption": ""
             }
           ]
         }

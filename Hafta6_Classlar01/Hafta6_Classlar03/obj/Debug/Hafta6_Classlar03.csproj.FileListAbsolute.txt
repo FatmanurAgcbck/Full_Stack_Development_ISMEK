@@ -1,0 +1,7 @@
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta6_Classlar01\Hafta6_Classlar03\bin\Debug\Hafta6_Classlar03.exe.config
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta6_Classlar01\Hafta6_Classlar03\bin\Debug\Hafta6_Classlar03.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta6_Classlar01\Hafta6_Classlar03\bin\Debug\Hafta6_Classlar03.pdb
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta6_Classlar01\Hafta6_Classlar03\obj\Debug\Hafta6_Classlar03.csproj.AssemblyReference.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta6_Classlar01\Hafta6_Classlar03\obj\Debug\Hafta6_Classlar03.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta6_Classlar01\Hafta6_Classlar03\obj\Debug\Hafta6_Classlar03.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta6_Classlar01\Hafta6_Classlar03\obj\Debug\Hafta6_Classlar03.pdb
