@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Hafta7_Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3D4713-37B1-4AA4-B36A-0824939EFE09}|Hafta7_Form04\\Hafta7_Form04.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\full_stack_development_ismek\\hafta7_form\\hafta7_form04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E3D4713-37B1-4AA4-B36A-0824939EFE09}|Hafta7_Form04\\Hafta7_Form04.csproj|solutionrelative:hafta7_form04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3D4713-37B1-4AA4-B36A-0824939EFE09}|Hafta7_Form04\\Hafta7_Form04.csproj|C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Hafta7_Form\\hafta7_form04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3D4713-37B1-4AA4-B36A-0824939EFE09}|Hafta7_Form04\\Hafta7_Form04.csproj|solutionrelative:hafta7_form04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Hafta7_Form\\Hafta7_Form04\\Form1.cs",
+              "RelativeDocumentMoniker": "Hafta7_Form04\\Form1.cs",
+              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Hafta7_Form\\Hafta7_Form04\\Form1.cs",
+              "RelativeToolTip": "Hafta7_Form04\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA6wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:53:19.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Hafta7_Form\\Hafta7_Form04\\Form1.cs",
+              "RelativeDocumentMoniker": "Hafta7_Form04\\Form1.cs",
+              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\Full_Stack_Development_ISMEK\\Hafta7_Form\\Hafta7_Form04\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hafta7_Form04\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:52:10.858Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

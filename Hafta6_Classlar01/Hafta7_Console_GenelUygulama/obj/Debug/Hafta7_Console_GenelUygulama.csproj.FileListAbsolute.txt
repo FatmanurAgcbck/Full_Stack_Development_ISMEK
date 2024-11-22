@@ -1,0 +1,7 @@
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta6_Classlar01\Hafta7_Console_GenelUygulama\bin\Debug\Hafta7_Console_GenelUygulama.exe.config
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta6_Classlar01\Hafta7_Console_GenelUygulama\bin\Debug\Hafta7_Console_GenelUygulama.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta6_Classlar01\Hafta7_Console_GenelUygulama\bin\Debug\Hafta7_Console_GenelUygulama.pdb
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta6_Classlar01\Hafta7_Console_GenelUygulama\obj\Debug\Hafta7_Console_GenelUygulama.csproj.AssemblyReference.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta6_Classlar01\Hafta7_Console_GenelUygulama\obj\Debug\Hafta7_Console_GenelUygulama.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta6_Classlar01\Hafta7_Console_GenelUygulama\obj\Debug\Hafta7_Console_GenelUygulama.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta6_Classlar01\Hafta7_Console_GenelUygulama\obj\Debug\Hafta7_Console_GenelUygulama.pdb

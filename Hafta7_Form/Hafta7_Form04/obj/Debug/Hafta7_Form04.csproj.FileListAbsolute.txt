@@ -1,0 +1,10 @@
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta7_Form\Hafta7_Form04\bin\Debug\Hafta7_Form04.exe.config
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta7_Form\Hafta7_Form04\bin\Debug\Hafta7_Form04.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta7_Form\Hafta7_Form04\bin\Debug\Hafta7_Form04.pdb
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta7_Form\Hafta7_Form04\obj\Debug\Hafta7_Form04.csproj.AssemblyReference.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta7_Form\Hafta7_Form04\obj\Debug\Hafta7_Form04.Form1.resources
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta7_Form\Hafta7_Form04\obj\Debug\Hafta7_Form04.Properties.Resources.resources
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta7_Form\Hafta7_Form04\obj\Debug\Hafta7_Form04.csproj.GenerateResource.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta7_Form\Hafta7_Form04\obj\Debug\Hafta7_Form04.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta7_Form\Hafta7_Form04\obj\Debug\Hafta7_Form04.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\Full_Stack_Development_ISMEK\Hafta7_Form\Hafta7_Form04\obj\Debug\Hafta7_Form04.pdb
